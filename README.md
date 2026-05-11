@@ -19,7 +19,3 @@ A simple stopwatch built using HTML, CSS, and JavaScript.
 - `start()` → Starts the stopwatch
 - `stop()` → Stops the stopwatch
 - `reset()` → Resets the stopwatch to `00:00:00:00`
-
-## Screenshot
-
-![Stopwatch Screenshot](screenshot.png)
